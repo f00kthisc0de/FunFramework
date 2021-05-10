@@ -2,7 +2,7 @@
 
 What is FunFramework ? It's basiclly a RAT but very simple and fun. This was my first project in batch. 
 You can controle a windows device over the network with your phone or another pc.
-There ist no installer for this programm so if you need help just hit me up.
+There is no installer for this programm so if you need help just hit me up.
 Netcat must be installed in windows for this to work.
 
 After you've installed Netcat, just start the listener and connect your device of choice to the backdoor.
